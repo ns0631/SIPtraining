@@ -33,16 +33,5 @@
             <xmax>630</xmax>
             <ymax>185</ymax>
         </bndbox>
-    </object>    <object>
-        <name>car</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>624</xmin>
-            <ymin>173</ymin>
-            <xmax>621</xmax>
-            <ymax>197</ymax>
-        </bndbox>
     </object>
 </annotation>

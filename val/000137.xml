@@ -1,0 +1,70 @@
+<annotation>
+    <folder>val_</folder>
+    <filename>000137.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/val_/000137.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1242</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>595</xmin>
+            <ymin>175</ymin>
+            <xmax>627</xmax>
+            <ymax>206</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>666</xmin>
+            <ymin>163</ymin>
+            <xmax>724</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>103</ymin>
+            <xmax>272</xmax>
+            <ymax>267</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>317</xmin>
+            <ymin>186</ymin>
+            <xmax>376</xmax>
+            <ymax>218</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>426</xmin>
+            <ymin>182</ymin>
+            <xmax>458</xmax>
+            <ymax>202</ymax>
+        </bndbox>
+    </object>
+</annotation>

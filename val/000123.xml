@@ -1,0 +1,26 @@
+<annotation>
+    <folder>val_</folder>
+    <filename>000123.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/val_/000123.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1242</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>602</xmin>
+            <ymin>176</ymin>
+            <xmax>634</xmax>
+            <ymax>198</ymax>
+        </bndbox>
+    </object>
+</annotation>

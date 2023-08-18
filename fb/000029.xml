@@ -1,0 +1,81 @@
+<annotation>
+    <folder>fb_</folder>
+    <filename>000029.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/fb_/000029.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1242</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>593</xmin>
+            <ymin>173</ymin>
+            <xmax>609</xmax>
+            <ymax>186</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>595</xmin>
+            <ymin>177</ymin>
+            <xmax>612</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>179</ymin>
+            <xmax>612</xmax>
+            <ymax>183</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>578</xmin>
+            <ymin>174</ymin>
+            <xmax>590</xmax>
+            <ymax>185</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>568</xmin>
+            <ymin>180</ymin>
+            <xmax>596</xmax>
+            <ymax>186</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>571</xmin>
+            <ymin>177</ymin>
+            <xmax>583</xmax>
+            <ymax>182</ymax>
+        </bndbox>
+    </object>
+</annotation>

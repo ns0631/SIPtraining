@@ -1,0 +1,15 @@
+<annotation>
+    <folder>val_</folder>
+    <filename>000130.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/val_/000130.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1224</width>
+        <height>370</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+
+</annotation>

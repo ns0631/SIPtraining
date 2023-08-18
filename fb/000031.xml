@@ -1,0 +1,48 @@
+<annotation>
+    <folder>fb_</folder>
+    <filename>000031.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/fb_/000031.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1242</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>622</xmin>
+            <ymin>172</ymin>
+            <xmax>650</xmax>
+            <ymax>199</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>632</xmin>
+            <ymin>162</ymin>
+            <xmax>656</xmax>
+            <ymax>203</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>613</xmin>
+            <ymin>169</ymin>
+            <xmax>653</xmax>
+            <ymax>206</ymax>
+        </bndbox>
+    </object>
+</annotation>

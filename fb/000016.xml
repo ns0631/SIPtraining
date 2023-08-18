@@ -1,0 +1,147 @@
+<annotation>
+    <folder>fb_</folder>
+    <filename>000016.png</filename>
+    <path>/home/nikhil/Desktop/SIP-AAI06/Datasets/images/fb_/000016.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1242</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>891</xmin>
+            <ymin>158</ymin>
+            <xmax>921</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>899</xmin>
+            <ymin>160</ymin>
+            <xmax>913</xmax>
+            <ymax>179</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>883</xmin>
+            <ymin>158</ymin>
+            <xmax>915</xmax>
+            <ymax>178</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>839</xmin>
+            <ymin>160</ymin>
+            <xmax>883</xmax>
+            <ymax>172</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>845</xmin>
+            <ymin>160</ymin>
+            <xmax>884</xmax>
+            <ymax>166</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>840</xmin>
+            <ymin>170</ymin>
+            <xmax>875</xmax>
+            <ymax>180</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>837</xmin>
+            <ymin>160</ymin>
+            <xmax>882</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>841</xmin>
+            <ymin>169</ymin>
+            <xmax>879</xmax>
+            <ymax>164</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>827</xmin>
+            <ymin>162</ymin>
+            <xmax>891</xmax>
+            <ymax>179</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>161</ymin>
+            <xmax>844</xmax>
+            <ymax>172</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>166</ymin>
+            <xmax>843</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>825</xmin>
+            <ymin>153</ymin>
+            <xmax>841</xmax>
+            <ymax>182</ymax>
+        </bndbox>
+    </object>
+</annotation>
